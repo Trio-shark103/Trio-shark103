@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me on my discord @ trio_shark
-- 😄 Pronouns: they/them
 - ⚡ Fun fact: enjoy stuff that make me happy
 
 <!---
